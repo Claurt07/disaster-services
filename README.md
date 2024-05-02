@@ -1,5 +1,5 @@
 ![logo](images/hot_logo.png)
-# HOTOSM Ethical Data and Protection Project
+# HOTOSM Disaster Services Documentation
 
 This is the public portal for HOT's policies, guidance, tools, and resources for Ethical Data and Protection in open humanitarian mapping.
 
