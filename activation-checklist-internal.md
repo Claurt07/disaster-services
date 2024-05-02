@@ -1,3 +1,6 @@
+# TEMPLATE - Emergencies mapping response LAC 
+
+
 ## Phase 1 - Determinate Response
 - [ ] 1. Event Size Up
 Report the incident size up using the form
