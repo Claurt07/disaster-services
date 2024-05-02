@@ -1,5 +1,6 @@
 # TEMPLATE - Emergencies mapping response LAC 
 
+This is only the index, for details or use refer to [Asana Link](https://app.asana.com/0/1206660915181451/1206682151310817) or contact LAC team. 
 
 ## Phase 1 - Determinate Response
 - [ ] 1. Event Size Up
