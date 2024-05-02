@@ -1,8 +1,7 @@
 # TEMPLATE - Emergencies mapping response LAC
-1. Event Size Up
-Report the incident size up using the form
-2. Determinate the Area of Interest (AOI)
-3. Estimate Data and Imagery Needs**
+- [ ] Event Size Up
+- [ ] Report the incident size up using the form
+- [ ] Determinate the Area of Interest (AOI)
 **a.** **Bing**
 **b.** **ESRI**
 **c.** **OpenAerialMap**
