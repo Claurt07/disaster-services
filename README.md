@@ -7,7 +7,12 @@ The resources here are used internally by HOT Open Mapping Hubs, the HOT Central
 
 ## What are HOT's diaster Services 
 
-Disaster response is one of the foundational pillars of Humanitarian OpenStreetMap. Since 2008 blah blah blah (wiki)
+HOT's mission regardin disasters is to provide open geographic data and technical support for humanitarian response, disaster preparedness, and recovery.
+
+HOT was officially founded in 2010 in response to the Haiti earthquake. However, its roots can be traced back to earlier informal efforts within the OpenStreetMap community to respond to disasters ([as seen in the listed responses in the wiki for 2009](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)). Since its inception, HOT has been involved in mapping efforts for various crises around the world, including earthquakes, hurricanes, floods, and disease outbreaks
+
+Check [current activations](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team) in this link and [past activations ones here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)
+
 
 
 ## 📖 What is in the Toolkit
@@ -25,15 +30,13 @@ Disaster response is one of the foundational pillars of Humanitarian OpenStreetM
 * **Glossary of Tools External:** document refering to external tools that might be of interest for disaster response 
 * **Terms for volunteering:** 
 
-## 👉 How to Use these Tools
-
-Fill in 
-
+<!-- ## 👉 How to Use these Tools
+ -->
 
 ## 👉 Access the Full Toolkit
 
 * From Github: click the green ```Code``` button near the top right of the screen, press ```Download ZIP```, and extract it onto your hard drive OR browse project Github folders. 
-* From Google Drive: [Public Protection folder](https://drive.google.com/drive/folders/1zNkAgNs-tcIGqtGGQs5tklhN-DQBRqm8?usp=drive_link)
+
 
 ## Clone the Git Repo
 
@@ -45,5 +48,5 @@ If you are experienced with Git and Github, and particularly if you would like t
 ## Contact and Join HOT disaster response
 
 Anyone is free to join and collaborate in disaster response, bellow are the different channels you can use to contact the team or volunteers. Also feel free to read the terms (link)
-1. Slack Channel
-2. Email 
+1. Slack Channel: #disaster-mapping
+2. Email: disasterservices@hotosm.org
