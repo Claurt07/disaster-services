@@ -1,11 +1,11 @@
 ![logo](images/hot_logo.png)
-# HOTOSM Disaster Services Documentation
+# :fire: HOTOSM Disaster Services Documentation
 
 This is the public portal for HOT's Disaster Services, guidance, tools, and resources in open humanitarian mapping.
 
 The resources here are used internally by HOT Open Mapping Hubs, the HOT Central team, and associated communities. In keeping with HOT's commitment to open data, public resources, collaboration, and above all community-first action, we are pleased to make this repository available to anyone&mdash;not only to read, but to contribute with content, suggestions, critiques, and resources.
 
-## What are HOT's diaster Services 
+## :world_map: What are HOT's diaster Services 
 
 HOT's mission regarding disasters is to provide open geographic data and technical support for humanitarian response, disaster preparedness, and recovery.
 
@@ -14,7 +14,7 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 :rotating_light: Check [current activations](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team) in this link and [past activations ones here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)
 
 
-## 📖 What is in the Toolkit
+## 📖 What is in the Repo
 
 * **Internal Activation Checklist (Asana)** [English](https://docs.google.com/document/d/1gevelbSeOY-i7b1-s_Y9Ew7wDdij5YbXkFlo4N4bNU4/edit?usp=drive_link). Internal checklist developed by Latin American and Caribe Hub (LAC) as standard operating procedure for responding and Roles and Responsibilities  
 * **External Checklist Template** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link)
@@ -38,19 +38,19 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 <!-- ## 👉 How to Use these Tools
  -->
 
-## 👉 Access the Full Toolkit
+## Download all the documentation
 
 * From Github: click the green ```Code``` button near the top right of the screen, press ```Download ZIP```, and extract it onto your hard drive OR browse project Github folders. 
 
 
-## Clone the Git Repo
+## :people_holding_hands: Clone the Git Repo
 
 If you are experienced with Git and Github, and particularly if you would like to contribute to this resource, it is better to clone or fork the repo. This has two major advantages:
 1. You can always get the most updated version of the tools by using ```git pull```
 2. You can contribute your own suggested changes via a pull request, making the toolkit better for everyone!
 
 
-## Contact and Join HOT disaster response
+## 👉 Contact and Join HOT disaster response
 
 Anyone is free to join and collaborate in disaster response, bellow are the different channels you can use to contact the team or volunteers. Also feel free to read the terms (link)
 1. Slack Channel: #disaster-mapping (form to join the slack channel [here](https://docs.google.com/forms/d/e/1FAIpQLScg39BQBoqzwVw3wVofpp0aGvu3M5FTteaLQs_WGFf9JceG_A/viewform))
