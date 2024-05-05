@@ -27,7 +27,13 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 * **External Checklist Template:** document that gathers common practices that HOT uses when responding to Disasters, but not binding
 * **Glossary of Terms:** document with common terms used across the documents and tools
 * **Glossary of Tools External:** document refering to external tools that might be of interest for disaster response 
-* **Terms for volunteering:** 
+
+### Useful Links and Learning
+
+- [wiki](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)
+- [LearnOSM](https://learnosm.org/en/osm-data/data-overview/)
+- [HOT Toolbox](https://toolbox.hotosm.org/pages/introduction/how_to_use_toolbox/)
+- [Moodle Training Center](https://courses.hotosm.org/) -- **Outdated**
 
 <!-- ## 👉 How to Use these Tools
  -->
