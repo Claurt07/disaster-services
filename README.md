@@ -7,12 +7,11 @@ The resources here are used internally by HOT Open Mapping Hubs, the HOT Central
 
 ## What are HOT's diaster Services 
 
-HOT's mission regardin disasters is to provide open geographic data and technical support for humanitarian response, disaster preparedness, and recovery.
+HOT's mission regarding disasters is to provide open geographic data and technical support for humanitarian response, disaster preparedness, and recovery.
 
 HOT was officially founded in 2010 in response to the Haiti earthquake. However, its roots can be traced back to earlier informal efforts within the OpenStreetMap community to respond to disasters ([as seen in the listed responses in the wiki for 2009](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)). Since its inception, HOT has been involved in mapping efforts for various crises around the world, including earthquakes, hurricanes, floods, and disease outbreaks
 
-Check [current activations](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team) in this link and [past activations ones here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)
-
+:rotating_light: Check [current activations](https://wiki.openstreetmap.org/wiki/Organised_Editing/Activities/Humanitarian_OpenStreetMap_Team) in this link and [past activations ones here](https://wiki.openstreetmap.org/wiki/Humanitarian_OSM_Team)
 
 
 ## 📖 What is in the Toolkit
