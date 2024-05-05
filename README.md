@@ -20,7 +20,7 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 * **External Checklist Template** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link)
 * **Activation Protocol** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link). This Activation Protocol defines the flow of activities during a HOT Activation and describes how our trained volunteers perform the tasks that lead to a successful and efficient response.
 * **HOT Activation Activation Working Group (AWG) - Trello Board** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link)
-* **AWG Drive [English](https://drive.google.com/drive/folders/0B1EorbpNCZ03fmpTQWZoVE9CLVlUaWR4S3h6eDRSYXZyTmpJTlZMS2h6X2k4c0lTVGcwTTg?resourcekey=0-HbwIIRzHa-C4wH3HgwCyFQ)
+* **AWG Drive** [English](https://drive.google.com/drive/folders/0B1EorbpNCZ03fmpTQWZoVE9CLVlUaWR4S3h6eDRSYXZyTmpJTlZMS2h6X2k4c0lTVGcwTTg?resourcekey=0-HbwIIRzHa-C4wH3HgwCyFQ)
 * **Activation Overview tool by Jarmo Kivekas** [English](https://jarmokivekas.github.io/hotosm-collate/)
 * **HOT Activation Working Group Terms of Reference** [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
 * **Roles and responsibilities doc:**  [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
@@ -47,5 +47,5 @@ If you are experienced with Git and Github, and particularly if you would like t
 ## Contact and Join HOT disaster response
 
 Anyone is free to join and collaborate in disaster response, bellow are the different channels you can use to contact the team or volunteers. Also feel free to read the terms (link)
-1. Slack Channel: #disaster-mapping
+1. Slack Channel: #disaster-mapping (form to join the slack channel [here](https://docs.google.com/forms/d/e/1FAIpQLScg39BQBoqzwVw3wVofpp0aGvu3M5FTteaLQs_WGFf9JceG_A/viewform))
 2. Email: disasterservices@hotosm.org
