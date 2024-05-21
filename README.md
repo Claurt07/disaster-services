@@ -24,6 +24,7 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 * **Glossary of Tools:** [English](/Tools_and_resourcs/list-of-resources-for-activation.md) document refering to external tools that might be of interest for disaster response 
 * **HOT Activation Activation Working Group (AWG) - Trello Board** [English](https://trello.com/b/ogU4Wjd6/hot-activation-wg)
 * **HOT Activation Working Group Terms of Reference** [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
+* **Humanitarian Decision Making Framework** [English](https://docs.google.com/presentation/d/1AYfrcXcY_110owYV8uTqWXFgqz9s52qV-i-vxsEnlEY/edit#slide=id.g29a610fca08_0_0) document to support decisions on humanitarian response where HOT staff time or financial resources are implicated
 * **Roles and responsibilities doc (internal):**  [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
 * **Tasking Manager Projects Overview tool by Jarmo Kivekas** [English](https://jarmokivekas.github.io/hotosm-collate/)
 
