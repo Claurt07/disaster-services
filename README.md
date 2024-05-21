@@ -16,15 +16,15 @@ HOT was officially founded in 2010 in response to the Haiti earthquake. However,
 
 ## 📖 What is in the Repo
 
-* **Internal Activation Checklist (Asana)** [English](https://docs.google.com/document/d/1gevelbSeOY-i7b1-s_Y9Ew7wDdij5YbXkFlo4N4bNU4/edit?usp=drive_link). Internal checklist developed by Latin American and Caribe Hub (LAC) as standard operating procedure for responding and Roles and Responsibilities  
-* **External Checklist Template** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link)
-* **Activation Protocol** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link). This Activation Protocol defines the flow of activities during a HOT Activation and describes how our trained volunteers perform the tasks that lead to a successful and efficient response.
-* **HOT Activation Activation Working Group (AWG) - Trello Board** [English](https://docs.google.com/spreadsheets/d/1dwbY8_V2uxvNIxVcUc0DUBIlLwesY5ZfXA11He-VZrM/edit?usp=drive_link)
+* **External Checklist Template** [English](https://docs.google.com/spreadsheets/d/1vrPvgCrTOj62kOlMdx9lw_heMPSfGkb5lS05p7d97w8/edit#gid=0)
+* **Activation Protocol** [English](https://www.hotosm.org/hot-activation-protocol). This Activation Protocol defines the flow of activities during a HOT Activation and describes how our trained volunteers perform the tasks that lead to a successful and efficient response.
+* **HOT Activation Activation Working Group (AWG) - Trello Board** [English](https://trello.com/b/ogU4Wjd6/hot-activation-wg)
 * **AWG Drive** [English](https://drive.google.com/drive/folders/0B1EorbpNCZ03fmpTQWZoVE9CLVlUaWR4S3h6eDRSYXZyTmpJTlZMS2h6X2k4c0lTVGcwTTg?resourcekey=0-HbwIIRzHa-C4wH3HgwCyFQ)
 * **Activation Overview tool by Jarmo Kivekas** [English](https://jarmokivekas.github.io/hotosm-collate/)
 * **HOT Activation Working Group Terms of Reference** [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
 * **Roles and responsibilities doc:**  [English](https://docs.google.com/document/d/1uf60-HUF9GyP68-DzzksEa8RLqFkUrsNSq6vhiiXa64/edit#heading=h.z7ly1d4xpc59)
 * **External Checklist Template:** document that gathers common practices that HOT uses when responding to Disasters, but not binding
+* **Internal Activation Checklist (Asana)** [English](https://app.asana.com/0/1206660915181451/1206682151310817), [Markdown](/Tools_and_resourcs/Advanced%20resources/activation-checklist-internal.md). Internal checklist developed by Latin American and Caribe Hub (LAC) as standard operating procedure for responding and Roles and Responsibilities  
 * **Glossary of Terms:** document with common terms used across the documents and tools
 * **Glossary of Tools External:** document refering to external tools that might be of interest for disaster response 
 
